@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bernardomours
-- 🌱 I’m currently starting in data analytcs area
+- 🌱 I’m currently starting in data analytics area
 - 💞️ I’m a beginner in the area
 - 📫 E-mail: bernardo.araujo1612@gmail.com
 
